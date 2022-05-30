@@ -1,0 +1,40 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "iphone 12 pro",
+      "desc": "apple iphone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image":
+      "https://propakistani.pk/price/wp-content/uploads/2019/11/Apple-iPhone-12-Pro-Max-price-1.png"
+    },
+    {
+      "id": 2,
+      "name": "iphone 12 pro max",
+      "desc": "apple iphone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image":
+      "https://propakistani.pk/price/wp-content/uploads/2019/11/Apple-iPhone-12-Pro-Max-price-1.png"
+    },
+    {
+      "id": 3,
+      "name": "iphone 12 pro",
+      "desc": "apple iphone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image":
+      "https://propakistani.pk/price/wp-content/uploads/2019/11/Apple-iPhone-12-Pro-Max-price-1.png"
+    },
+    {
+      "id": 4,
+      "name": "iphone 12 pro",
+      "desc": "apple iphone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image":
+      "https://propakistani.pk/price/wp-content/uploads/2019/11/Apple-iPhone-12-Pro-Max-price-1.png"
+    }
+  ]
+}
